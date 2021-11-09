@@ -1,24 +1,6 @@
-# README
+## Objetivos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Criar uma API para disponibilizar acesso a um conjunto de artigos, onde poderemos listar todos os artigos, consultar um artigo específico, criar, atualizar e deletar.
 
-Things you may want to cover:
+📚 [Criando API REST com Rails 5](https://medium.com/jaguaribetech/criando-api-rest-com-ruby-on-rails-1ed90d252831)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
